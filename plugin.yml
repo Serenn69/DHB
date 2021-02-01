@@ -1,0 +1,29 @@
+name: DHB
+version: Alpha v0.1
+author: Serenn
+main: fr.serenn.dhb.DHBMain
+commands:
+  team:
+    description: Manage teams.
+    permission: dhb.team
+    usage: /team [create] [edit] [delete] [players]
+  freeze:
+    description: Freeze players and game.
+    permission: dhb.freeze
+    usage: /freeze [stop]
+  mcpg:
+    description: Becomes shoutcaster or arbitrator .
+    permission: dhb.sc
+    usage: /sc [mdp]
+  start:
+    description: Launch game.
+    persmission: dhb.start
+    usage: /start [stop]
+  map:
+    description: Manage map
+    permission: dhb.map
+    usage: /map [scan] [tree]
+  help:
+    description: List available commands.
+    permission: dhb.help
+    usage: /help

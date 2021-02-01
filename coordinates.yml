@@ -1,0 +1,493 @@
+world:
+  name: DHB
+  limit:
+    x1: -85
+    y1: 0
+    z1: -243
+    x2: 413
+    y2: 70
+    z2: 255
+  test:
+    x1: 115
+    y1: 0
+    z1: -43
+    x2: 213
+    y2: 60
+    z2: 55
+lobby:
+  x: 164
+  y: 50
+  z: 6
+  team:
+    y: 49
+    0:
+      x1: 155
+      z1: -2
+      x2: 158
+      z2: 1
+    1:
+      x1: 169
+      z1: -2
+      x2: 172
+      z2: 1
+    2:
+      x1: 162
+      z1: -3
+      x2: 165
+      z2: 0
+  limit: 
+    x1: 115
+    x2: 213
+    y1: 0
+    y2: 70
+    z1: -43
+    z2: 55
+respawn:
+  x: 164
+  y: 4
+  z: 6
+  limit:
+    x1: 115
+    y1: 0
+    z1: -43
+    x2: 213
+    y2: 70
+    z2: 55
+  test:
+    x1: 24
+    x2: 34
+  team:
+    y: 3
+    0:
+      x1: 155
+      x2: 159
+      z1: 11
+      z2: 15
+      p: -120
+      y: 0
+    1:
+      x1: 169
+      x2: 173
+      z1: 11
+      z2: 15
+      p: 120
+      y: 0
+    2:
+      x1: 162
+      x2: 166
+      z1: -3
+      z2: 1
+      p: 0
+      y: 0
+volcano:
+  limit:
+    x1: 
+    x2: 
+    y1: 
+    y2: 
+    z1: 
+    z2: 
+  princ:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+iron:
+  limit:
+    x1: 
+    x2: 
+    y1: 
+    y2: 
+    z1: 
+    z2: 
+  princ:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+  secG:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+  secD:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+exp:
+  limit:
+    x1: 
+    x2: 
+    y1: 
+    y2: 
+    z1: 
+    z2: 
+  princ:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:   
+  secG:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+  secD:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+diam:
+  limit:
+    x1: 
+    x2: 
+    y1: 
+    y2: 
+    z1: 
+    z2: 
+  princ:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+  secG:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  
+  secD:
+    door:
+      x1: 
+      x2: 
+      y1: 
+      y2: 
+      z1: 
+      z2: 
+    tp:
+      out:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2: 
+      in:
+        x1: 
+        x2: 
+        y1: 
+        y2: 
+        z1: 
+        z2:
+      area:
+        in:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2: 
+        out:
+          x1: 
+          x2: 
+          y1: 
+          y2: 
+          z1: 
+          z2:  

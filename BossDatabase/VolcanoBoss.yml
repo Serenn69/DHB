@@ -1,0 +1,42 @@
+boss:
+  type: blaze
+  name: "&cNerens, God of Fire"
+  hp: 100
+weapon:
+  name: "&4HellBlade"
+  type: sword
+  material: diamond
+  enchant:
+    1:
+      type: sharpness
+      lvl:  3
+    2:
+      type: fireaspect
+      lvl: 2
+    3:
+      type: 
+      lvl: 
+book:
+  1:
+    enchant: sharpness
+    lvl: 2
+    qty: 1
+  2:
+    enchant: power
+    lvl: 3
+    qty: 1
+  3:
+    enchant: protection
+    lvl: 5
+    qty: 1
+loots:
+  1:
+    type:  golden_apple
+    qty: 3 
+  2:
+    type:  
+    qty:
+  3:
+    type:  
+    qty:
+    

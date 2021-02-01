@@ -1,0 +1,35 @@
+mcpg:
+  sc:
+    pass: stream
+  keep:
+    pass: keeper
+timer:
+  brief: 7
+  begin: 7
+  iron: 7
+  exp: 7
+  diam: 7
+  left: 7
+  open: 0
+  pause: "&cJEU EN PAUSE !!!"
+phases:
+  0: "&cBriefing dans :"
+  1: "&cDébut de partie dans :"
+  2: "&7Mine de Fer :"
+  3: "&7Mine de Fer :     &dOUVERTE"
+  4: "&aMine d'Exp :"
+  5: "&aMine d'Exp :       &dOUVERTE"
+  6: "&bMine de Diamant :"
+  7: "&bMine de Diamant : &dOUVERTE"
+  8: "&cDernière phase :"
+  9: "&cDernière Phase    &dACTIVEE"
+  10: "&7Mine de Fer :     &dFERMEE"
+  11: "&aMine d'Exp :       &dFERMEE"
+  12: "&bMine de Diamant : &dFERMEE"
+  13: "&eVolcan :            &dOUVERT"
+  14: "&eVolcan :            &dFERME"
+  15: "&cToutes les &dMINES &cet le &dVOLCAN &csont &dFERMES"
+chunck:
+  x: 50
+  y: 20
+  z: 50
